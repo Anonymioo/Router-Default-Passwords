@@ -50,3 +50,29 @@ AusLinx: root - root
 AWB Networks: operator - oper1234
 Axesstel: admin - admin, 1
 Aztech: admin, blank, user - admin, blank, user, Aztechadmin, password
+Bandluxe: admin - hsparouter, admin
+Bandridge: blank - blank
+Baudtec: admin - 1234
+Bausch: admin - epicrouter
+Baytec: admin - gvt12345
+bebo: admin - epicrouter
+BEC Technologies: admin, blank - admin
+Beeline: admin - admin
+Beetel: admin - password
+Belgacom: admin, User, blank - BGCVDSL2, password, admin
+Belkin: admin, blank - admin, password, blank
+Bell: admin - admin
+Benq: admin - admin
+Best Data: admin - blank
+Billion: admin, admim, blank - admin, password
+Binatone: Admin, admin - blank, password
+Blackbox: Admin - Admin
+Blanc: blank - blank
+Blitzz: blank, admin - blank, admin
+Blue Thunder: Admin - Admin
+Bountiful WiFi: admin - admin
+bRoad: blank - 0000
+Broadnext: admin - admin
+BT: blank, admin - admin, blank
+Bticino: admin - bticinoadsl
+Buffalo: root, admin - blank, password, admin
