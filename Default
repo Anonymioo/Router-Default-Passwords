@@ -1,3 +1,30 @@
 100Fio Networks: admin - admin
 1net1: admin - 1
-2wire: NOLOGIN, Blank, blank - NOLOGIN, blank
+2wire: blank - blank
+3BB: admin - 3bb
+3com: none, admin - admin, 1234
+8level: admin - admin
+A-Link: admin, empty - 1234, password, epicrouter, admin
+Above Cable: NONE - admin
+Accton: NONE - blank
+Acer: admin - password
+ACorp: blank, admin - blank, admin
+Actiontec: admin, blank - NOLOGIN, unknown, admin, password, telus
+Adaptec: admin - blank
+ADB: 3play - 3play
+ADDON: Admin, addon, admin, blank - Admin, addon, 1234, blank
+Advantek: admin, 1234
+Aethra Starvoice: anything - blank
+AGK Nordic: - blank - admin
+AirLAN: root - admin
+Airlink: 101: blank, admin - blank, admin
+AirLive: airlive, admin - airlive, 1234
+Airnet: admin - admin, 1234
+AirRouter: blank - blank
+AirTies: blank - blank
+Alcatel: admin - admin, conf
+Alice: blank - AliceMod
+Allied Data: admin - admin
+Allied Telesyn: manager, admin, root, blank - friend, admin, blank
+AllNet: blank - blank
+Alpha Router: 1234 - 1234
