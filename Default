@@ -9,7 +9,7 @@ Above Cable: NONE - admin
 Accton: NONE - blank
 Acer: admin - password
 ACorp: blank, admin - blank, admin
-Actiontec: admin, blank - NOLOGIN, unknown, admin, password, telus
+Actiontec: admin, blank - admin, password, telus, blank
 Adaptec: admin - blank
 ADB: 3play - 3play
 ADDON: Admin, addon, admin, blank - Admin, addon, 1234, blank
@@ -28,3 +28,25 @@ Allied Data: admin - admin
 Allied Telesyn: manager, admin, root, blank - friend, admin, blank
 AllNet: blank - blank
 Alpha Router: 1234 - 1234
+Alvarion: operator, admin - wimax, admin
+Ambit: root, admin, user - root, cableroot, user
+Amped Wireless: admin, blank - admin, blank
+Ansel: blank - admin
+Aolynk: admin - admin
+AOpen: blank - 1234
+AP: root - root
+Apple: blank - blank
+Arris: admin, blank - password, blank, 1234
+Articonet: admin - admin
+Artnet: admin - epicrouter, admin
+Asante: blank - admin, blank
+Asmax: admin - epicrouter
+Asus: admin, Admin, root - admin, Admin, root, epicrouter, password
+ATEL: admin - admin
+Ativa: blank - blank
+Atlantis Land: admin - admin
+ATnT: blank - attadmin
+AusLinx: root - root
+AWB Networks: operator - oper1234
+Axesstel: admin - admin, 1
+Aztech: admin, blank, user - admin, blank, user, Aztechadmin, password
