@@ -76,3 +76,33 @@ Broadnext: admin - admin
 BT: blank, admin - admin, blank
 Bticino: admin - bticinoadsl
 Buffalo: root, admin - blank, password, admin
+Cabac: admin - admin
+Cable N Wireless: admin, blank - admin, 1234
+Calix: admin - blank
+Cambridge Industries Group: admin - admin
+Canyon: admin, blank  - epicrouter, admin, 1234
+Ceremo: admin - admin
+CastleNet: blank - cable
+Cayman: admin - admin
+CBN: admin - password
+CD-R King: admin - admin
+Cerberus Adsl: admin - password
+Cisco: admin, cisco, blank, cusadmin - admin, cisco, password, highspeed, blank
+Cisco Linksys: admin - admin, blank
+CNET: admin, Admin, root - admin, Admin, epicrouter, 1234
+Comcast: blank, comcast - 1234
+Compaq: admin - blank
+CompUSA: blank, admin - blank, admin
+Comstar: blank - blank
+Comtrend: admin, 1234, root, blank - admin, 1234, 12345, root
+Conceptronic: admin, blank - 1234, blank, admin
+Conexant: blank, user, admin, root - conexant, password, epicrouter, root
+Corecess: admin - corecess
+Coredy: admin - admin
+Corega: root - blank
+Cosy: blank - 1234
+Creative: admin, blank - admin
+Crypto: admin, blank - conexant, admin
+CT Systems: admin - blank
+CTC Union: root - root
+Cyberoam: admin - admin
